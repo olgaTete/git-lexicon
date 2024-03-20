@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-<title>File2!</title>
+<title>New File</title>
 </head>
 <body>
-<p>Hello World 2!</p>
+<p>Hello World!</p>
 </body>
 </html>
